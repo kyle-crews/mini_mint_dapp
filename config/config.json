@@ -1,10 +1,10 @@
 {
-    "CONTRACT_ADDRESS": "0xb732e532026fdc827dbaa035720a304ec8c16a47",
-    "SCAN_LINK": "https://testnet.snowtrace.io/address/0xb732e532026fdc827dbaa035720a304ec8c16a47",
+    "CONTRACT_ADDRESS": "0x930b0756fdcc861d4b6583b8f49a23eb494bbb17",
+    "SCAN_LINK": "https://snowtrace.io/address/0x930b0756fdcc861d4b6583b8f49a23eb494bbb17",
     "NETWORK": {
-        "NAME": "Avalanche FUJI C-Chain",
+        "NAME": "Avalanche Network",
         "SYMBOL": "AVAX",
-        "ID": 43113
+        "ID": 43114
     },
     "NFT_NAME": "MINI Market Maker",
     "SYMBOL": "MINI ",
@@ -13,6 +13,6 @@
     "DISPLAY_COST": 1,
     "GAS_LIMIT": 285000,
     "MARKETPLACE": "NFTrade",
-    "MARKETPLACE_LINK": "https://testnets.nftrade.com/assets/fuji/0xb732e532026fdc827dbaa035720a304ec8c16a47",
+    "MARKETPLACE_LINK": "https://nftrade.com/assets/fuji/0x930b0756fdcc861d4b6583b8f49a23eb494bbb17",
     "SHOW_BACKGROUND": true
 }
