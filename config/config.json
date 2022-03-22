@@ -14,5 +14,5 @@
     "GAS_LIMIT": 285000,
     "MARKETPLACE": "NFTrade",
     "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0x930b0756fdcc861d4b6583b8f49a23eb494bbb17",
-    "SHOW_BACKGROUND": false
+    "SHOW_BACKGROUND": true
 }
