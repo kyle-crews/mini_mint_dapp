@@ -10,7 +10,7 @@
     "SYMBOL": "MINI ",
     "MAX_SUPPLY": 3333,
     "WEI_COST": 1000000000000000000,
-    "DISPLAY_COST": .8,
+    "DISPLAY_COST": 0.80,
     "GAS_LIMIT": 285000,
     "MARKETPLACE": "NFTrade",
     "MARKETPLACE_LINK": "https://nftrade.com/assets/avalanche/0x930b0756fdcc861d4b6583b8f49a23eb494bbb17",
